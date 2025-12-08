@@ -6,147 +6,127 @@
     },
     {
       "url": "https://wogg.heshiheng.top",
-      "weight": 1.0
-    },
-    {
-      "url": "https://wogg.333232.xyz",
-      "weight": 1.0
-    },
-    {
-      "url": "https://woggpan.333232.xyz",
-      "weight": 1.0
+      "weight": 1
     },
     {
       "url": "https://www.wogg.one",
-      "weight": 1.0
-    },
-    {
-      "url": "https://www.wogg.lol",
-      "weight": 1.2
+      "weight": 1
     }
   ],
   "木偶": [
     {
       "url": "https://www.muou.site",
-      "weight": 1.0
+      "weight": 1
     },
     {
       "url": "https://www.muou.asia",
-      "weight": 1.0
+      "weight": 1
     },
     {
       "url": "https://666.666291.xyz",
-      "weight": 1.0
+      "weight": 1
     }
   ],
   "闪电": [
     {
       "url": "http://1.95.79.193",
-      "weight": 1.0
+      "weight": 1
     },
     {
       "url": "http://1.95.79.193:666",
-      "weight": 1.0
+      "weight": 1
     }
   ],
   "欧哥": [
     {
       "url": "https://woog.nxog.eu.org",
-      "weight": 1.0
+      "weight": 1
     }
   ],
   "多多": [
     {
       "url": "https://tv.yydsys.top",
-      "weight": 1.0
+      "weight": 1
     },
     {
       "url": "https://tv.yydsys.cc",
-      "weight": 1.0
+      "weight": 1
     },
     {
       "url": "https://tv.214521.xyz",
-      "weight": 1.0
+      "weight": 1
     }
   ],
   "蜡笔": [
     {
-      "url": "http://feimaoai.site",
-      "weight": 1.0
-    },
-    {
       "url": "http://www.labi88.sbs",
-      "weight": 1.0
+      "weight": 1
     },
     {
       "url": "https://feimao666.fun",
-      "weight": 1.0
+      "weight": 1
     },
     {
       "url": "http://feimao888.fun",
-      "weight": 1.0
+      "weight": 1
     }
   ],
   "至臻": [
     {
       "url": "https://mihdr.top",
-      "weight": 1.0
+      "weight": 1
     },
     {
       "url": "http://xiaomi666.fun",
-      "weight": 1.0
+      "weight": 1
     },
     {
       "url": "http://www.miqk.cc",
-      "weight": 1.0
+      "weight": 1
     },
     {
-      "url": "https://xiaomiai.site",
-      "weight": 1.0
+      "url": "https://www.zhizhenpan.fun",
+      "weight": 1
     }
   ],
   "虎斑": [
     {
       "url": "http://103.45.162.207:20720",
-      "weight": 1.0
+      "weight": 1
     }
   ],
   "小斑": [
     {
       "url": "http://xsayang.fun:12512",
-      "weight": 1.0
+      "weight": 1
     }
   ],
   "二小": [
     {
       "url": "https://xhww.net",
-      "weight": 1.0
-    },
-    {
-      "url": "http://2xiaopan.fun",
-      "weight": 1.0
-    },
-    {
-      "url": "https://erxiaofn.click",
-      "weight": 1.0
-    },
-    {
-      "url": "https://erxiaofn.site",
-      "weight": 1.0
+      "weight": 1
     },
     {
       "url": "https://www.xhww.net",
-      "weight": 1.0
+      "weight": 1
     },
     {
-      "url": "https://xiaoer.5568.eu.org",
-      "weight": 1.0
+      "url": "http://2xiaopan.fun",
+      "weight": 1
+    },
+    {
+      "url": "https://erxiaofn.click",
+      "weight": 1
+    },
+    {
+      "url": "https://erxiaofn.site",
+      "weight": 1
     }
   ],
   "偶叔": [
     {
       "url": "https://woss.fenwe.eu.org/",
-      "weight": 1.0
+      "weight": 1
     }
   ],
   "立播": [
@@ -160,15 +140,15 @@
     },
     {
       "url": "https://libvio.la",
-      "weight": 1.0
+      "weight": 1
     },
     {
       "url": "https://libvio.pro",
-      "weight": 1.0
+      "weight": 1
     },
     {
       "url": "https://libvio.fun",
-      "weight": 1.0
+      "weight": 1
     },
     {
       "url": "https://libvio.me",
@@ -176,33 +156,33 @@
     },
     {
       "url": "https://libvio.in",
-      "weight": 1.0
+      "weight": 1
     },
     {
       "url": "https://libvio.site",
-      "weight": 1.0
+      "weight": 1
     },
     {
       "url": "https://libvio.art",
-      "weight": 1.0
+      "weight": 1
     },
     {
       "url": "https://libvio.vip",
-      "weight": 1.0
+      "weight": 1
     },
     {
       "url": "https://libvio.pw",
-      "weight": 1.0
+      "weight": 1
     },
     {
       "url": "https://libvio.link",
-      "weight": 1.0
+      "weight": 1
     }
   ],
   "星剧社": [
     {
       "url": "https://mlink.cc/520TV",
-      "weight": 1.0
+      "weight": 1
     }
   ]
 }
